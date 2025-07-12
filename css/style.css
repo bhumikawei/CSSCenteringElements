@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+}
+.centered-div {
+    width: 200px;
+    height: 200px;
+    /*handles horizontal centering on a block level elementwith defined width*/
+    margin: 0 auto;
+    background-color: aqua;
+}
